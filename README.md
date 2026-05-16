@@ -88,6 +88,11 @@ The project is deployed using:
 - **Vercel**
 
 ---
+# 🌐 Live Demo
+
+🚀 Deployment Link: https://civora-speak-today-shape-tomorrow.vercel.app/
+
+---
 
 # 🎯 Purpose
 
